@@ -1,5 +1,4 @@
 # BrainICP-Imaging-Archive
-BrainICP Imaging Archive
 
 https://doi.org/10.5061/dryad.c2fqz61jh
 
@@ -8,8 +7,6 @@ The "BrainICP Imaging Archive" is a dataset developed for evaluating intracrania
 Description of the data and file structure.
 
 The DICOM files of the patients were preprocessed as illustrated in the figure :
-
-
 
 Each patient is mapped to a Python dictionary with the following keys:
 
@@ -24,20 +21,20 @@ Each patient is mapped to a Python dictionary with the following keys:
        “Glasgow Coma Scale”: The GCS of each patient
 
 The "BrainICP Imaging Archive" folder has the following structure:
-
-BrainICP Imaging Archive
-|
-|-- UNDER15_NORMAL
-|   |-- patients_under15_part1.npy
-|   |-- patients_under15_part2.npy
-|   |-- patients_under15_part3.npy
-|
-|-- MORE_OR_EQ
-|   |-- patients_more_or_eq_part1.npy
-|   |-- patients_more_or_eq_part2.npy
-|
-|-- WIDE_RANGE
-    |-- patients_wide_range.npy
+                
+                    BrainICP Imaging Archive
+                    |
+                    |-- UNDER15_NORMAL
+                    |   |-- patients_under15_part1.npy
+                    |   |-- patients_under15_part2.npy
+                    |   |-- patients_under15_part3.npy
+                    |
+                    |-- MORE_OR_EQ
+                    |   |-- patients_more_or_eq_part1.npy
+                    |   |-- patients_more_or_eq_part2.npy
+                    |
+                    |-- WIDE_RANGE
+                        |-- patients_wide_range.npy
 
 
 
