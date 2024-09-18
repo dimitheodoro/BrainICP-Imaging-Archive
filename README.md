@@ -2,7 +2,7 @@
 
 https://doi.org/10.5061/dryad.c2fqz61jh
 
-The "BrainICP Imaging Archive" is a dataset developed for evaluating intracranial pressure from CT brain scans. It includes data from 278 patients with corresponding ICP measurements, demographic, and clinical information. The dataset aims to support the development of AI models for rapid ICP estimation using CT scans. The data acquisition was approved both by the "Ethics & Deontology Committee of University General Hospital of Heraklion"(approval number:1371) and the “Committee of Ethics and Research Deontology of the University of Crete” (approval number: 82/19.05.2023). All subjects were admitted to the neurosurgery department of the University General Hospital of Heraklion between 2012 and 2023.
+The "BrainICP Imaging Archive" is a dataset developed for evaluating intracranial pressure from CT brain scans. It includes data from 278 patients with corresponding ICP measurements, demographic, and clinical information. The dataset aims to support the development of AI models for rapid ICP estimation using CT scans. The data exploitation was approved by the "Ethics & Deontology Committee of the General University Hospital of Heraklion"(approval number 24303). All subjects were admitted to the neurosurgery department of the University General Hospital of Heraklion between 2012 and 2023.
 
 Description of the data and file structure.
 
